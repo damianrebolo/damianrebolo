@@ -23,7 +23,7 @@ Feel free to reach out to me for collaboration, questions, or just to say hi!
 A decentralized chat app solution with account abstraction and sponsored gas fee.
 
 - [Repository Link](https://github.com/damianrebolo/chatter)
-  ![Chatter](image-4.png)
+  ![Chatter](image-5.png)
 
 ### NFT Marketplace
 
@@ -37,7 +37,7 @@ A marketplace for creating, buying, and selling NFTs. Integrated with Ethereum b
 A Membership App where the users can get access to content base on the it needs.
 
 - [Repository Link](https://github.com/damianrebolo/web3-membership)
-  ![alt text](image-2.png)
+  ![Membership Access](image-2.png)
 
 ### Personal Docs
 
