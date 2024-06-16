@@ -1,4 +1,4 @@
-# Welcome to My GitHub Profile 👋
+# Web3 Engineer
 
 I'm Damian, a dedicated Frontend Engineer, Architect, and Advisor with a passion for Web3 technologies and blockchain. Here you will find a collection of my work, including open-source contributions, personal projects, and collaborative efforts in the realm of decentralized applications.
 
