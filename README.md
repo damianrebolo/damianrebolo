@@ -23,7 +23,6 @@ Feel free to reach out to me for collaboration, questions, or just to say hi!
 A decentralized chat app solution with account abstraction and sponsored gas fee.
 
 - [Repository Link](https://github.com/damianrebolo/chatter)
-- [LINK TO WEB](https://chatter-dr.vercel.app/)
   ![Chatter](image-5.png)
 
 ### NFT Marketplace
